@@ -1,1 +1,2 @@
-This is again from Moiz branch
+echo Hello world
+echo learn git by practice
